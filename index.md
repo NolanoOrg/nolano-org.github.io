@@ -1,5 +1,5 @@
 ---
-title: Paiph.org
+title: Nolano.org
 layout: home
 description: Welcome to our Nolano! Our research software is designed to help you reply to emails quickly and professionally. Our tool offers a smart auto reply suggestion feature that will help you reply to emails quickly and professionally.
 intro_image: ""

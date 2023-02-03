@@ -10,4 +10,4 @@ show_call_box: true
 
 # Nolano: Privacy first Grammer Assitance.
 
-The secret weapon for error-free Email writing and safeguarding your privacy.
+Effortlessly Manage Your Inbox with Time-Saving Auto Replies.

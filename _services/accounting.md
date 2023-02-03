@@ -1,11 +1,10 @@
 ---
-title: "Grammer checker"
+title: "Understand Context of previous emails"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-A grammar checker is a software program or tool that checks text for grammatical errors and suggests corrections. It can check for spelling, punctuation, sentence structure, and word usage errors, among other things. Grammar checkers can be used to improve writing in various contexts, such as academic papers, emails, and social media posts. Some grammar checkers are built into word processing software, while others can be downloaded as standalone programs or used online.
-
+Nolano understands the context of your email and provides you with a list of tailored replies. Simply choose the most appropriate reply, and the tool will automatically insert it into your response.
 
 
 <!-- 

@@ -1,11 +1,10 @@
 ---
-title: "Spell checker"
+title: "Work with different languages"
 date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
 
-A spell checker is a software program or tool that checks text for spelling errors and suggests corrections. It can be used to improve written communication in various contexts, such as academic papers, emails, and social media posts. Spell checkers can be built into word processing software, web browsers, and other types of software, and can also be downloaded as standalone programs or used online. They work by comparing words in the text to a dictionary of correctly spelled words, and flagging any words that do not match. Some spell checkers can also check for homophones (words that sound the same but have different meanings, such as "there" and "their") and other types of errors.
-
+Our tool is designed to work with different languages. However, we have thorougly tested for other languages than English. If you find any issues, please let us know.
 
 
 <!-- 

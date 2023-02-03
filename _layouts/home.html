@@ -20,29 +20,27 @@ bodyClass: "page-home"
           <div style="margin: 50">
             <!-- adding image of mac download using html with size of 32*32-->
             <!-- add some space in the front -->
-            <img src="https://cdn-icons-png.flaticon.com/512/2/2235.png" alt="Mac Download" width="32" height="32"> 
-            <a href="{{ site.data.contact.contact_button_link }}" class="button">Mac Download</a> 
+            <img src="/images/chrome.png" alt="Chrome Extension" width="32" height="32"> 
+            <a href="{{ site.data.contact.contact_button_link }}" class="button">Chrome Extension</a> 
           </div>
           <br>
         <div style="margin: 50">
 
-            <img src="https://img.freepik.com/free-icon/windows-logo_318-1544.jpg?w=996&t=st=1674078019~exp=1674078619~hmac=2bfedbb222f29afb4c4897e1798bdc8b34676df329ad021edd1156c73aece335" alt="Windows Download" width="32" height="32">
-          <a href="{{ site.data.contact.contact_button_link }}" class="button">Windows Download</a>  
+            <img src="/images/mozilla.png" alt="Firefox Extension" width="32" height="32">
+          <a href="{{ site.data.contact.contact_button_link }}" class="button">Firefox Extension</a>  
 
             <!-- adding image of linux download using html with size of 32*32-->
           </div>
-          <br>
-          <div>
-            <!-- adding image of windows download using html with size of 32*32-->
-            <img src="https://cdn-icons-png.flaticon.com/512/25/25719.png" alt="Linux Download" width="32" height="32">
-            <a href="{{ site.data.contact.contact_button_link }}" class="button">Linux Download</a>
-
-      </div>
     </div>
       {% endif %}
     </div>
   </div>
 </div>
+
+<!-- add waiting list-->
+<!-- modify this form HTML and place wherever you want your form -->
+
+
 
 <!-- embed a youtube video in using html in the center -->
 
@@ -64,14 +62,17 @@ bodyClass: "page-home"
       </div>
       {% endfor %}
     </div>
+    <div style="width:85%; height:300px; margin: 0 auto; text-align:center;" data-tf-widget="u54Q0ZQX" data-tf-opacity="100" data-tf-iframe-props="title=nolano" data-tf-transitive-search-params data-tf-disable-scroll data-tf-auto-resize data-tf-medium="snippet">
+    </div>
+    <script src="//embed.typeform.com/next/embed.js">
+    </script>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "services" | relative_url }}">View All Services</a>
+        <!-- <a class="button button-primary" href="{{ "services" | relative_url }}">View All Services</a> -->
       </div>
     </div>
   </div>
 </div>
-
 <!-- {% if site.data.features %}
 <div class="strip strip-grey">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">

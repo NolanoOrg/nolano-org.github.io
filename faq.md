@@ -19,6 +19,15 @@ description: FAQ
 ### Q: What email clients does the Email Assistance Tool support?
 **A:** Currently, the tool only supports Gmail, but we are working to make it available for other email clients in the near future. Stay tuned for updates on our progress!
 
+### Q: How can I obtain information on the prompt that was used?
+**A:** If you need more information about the prompt that was employed, feel free to reach out to us at iamtejasvaidhya@gmail.com. Our team is here to help and support you in your endeavors. Please note that we discourage reverse engineering and breaking of our system as we would like you to enjoy its use.
+
+
+
+ 
+
+
+
 
 
 

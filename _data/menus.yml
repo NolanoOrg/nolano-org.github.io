@@ -15,3 +15,6 @@ footer:
   - name: "Contact"
     url: "/contact/"
     weight: 2
+  - name: "license"
+    url: "https://docs.google.com/document/d/18UBMDmBFN4zTnaMwAVtkTjw4z-9GaY7wlb32D317QmY/edit?usp=sharing"
+    weight: 3

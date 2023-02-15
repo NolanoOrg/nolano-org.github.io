@@ -9,15 +9,15 @@ main:
     url: "/about"
     weight: 2
 footer:
-  - name: "Home"
-    url: "/"
-    weight: 1
+  # - name: "Home"
+  #   url: "/"
+  #   weight: 1
   - name: "Contact"
     url: "/contact/"
-    weight: 2
+    weight: 1
   - name: "License"
     url: "https://docs.google.com/document/d/18UBMDmBFN4zTnaMwAVtkTjw4z-9GaY7wlb32D317QmY/edit?usp=sharing"
-    weight: 3
+    weight: 2
   - name: "Twitter"
     url: "https://twitter.com/nolanoorg"
     weight: 3

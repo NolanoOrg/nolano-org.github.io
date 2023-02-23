@@ -27,7 +27,7 @@ defaults:
     values:
       layout: "service"
   - scope:
-      path: ""
+      path: "team"
       type: "team"
     values:
       layout: "team"

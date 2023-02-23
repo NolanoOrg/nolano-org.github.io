@@ -1,13 +1,13 @@
 ---
 title: Nolano.org
 layout: home
-description: Welcome to our Nolano! Our research software is designed to help you reply to emails quickly and professionally. Our tool offers a smart auto reply suggestion feature that will help you reply to emails quickly and professionally.
+description: Welcome to our Nolano! Our research software is designed to help you reply to emails quickly and professionally, talk with webpages (including pdfs), correct your grammar, paraphrase sentence and more. We are currently working on a new version of our software that will be available soon. Stay tuned for updates!
+
 intro_image: ""
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Nolano: Reply your email within 5 sec.
-
-Effortlessly Manage Your Inbox with Time-Saving Auto Replies.
+# Nolano: Copilot to navigate the web.
+Say goodbye to aimless browsing and let our copilot take the wheel!.

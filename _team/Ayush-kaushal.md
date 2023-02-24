@@ -8,8 +8,6 @@ promoted: true
 weight: 2
 ---
 
-Hi There! :wave:
-
 I am a Masters in Computer Science student at the University of Texas at Austin. I am passionate about Machine Learning and Deep Learning solutions to real-world problems. My inclination is towards data in the text, image and audio modalities and I am very interested in making large language models feasible for deployment.
 
 My experiences in Machine Learning stems from my research internships at Google, IBM, ETH Zurich, University of Oregon and IIT Kharagpur. I am grateful to all my co-authors and mentors to help me excel in these internships.

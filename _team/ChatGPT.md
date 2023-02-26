@@ -7,4 +7,4 @@ promoted: true
 weight: 3
 ---
 
-Evolving to Artifical General Intelligence
+Evolving to Artifical General Intelligence. 

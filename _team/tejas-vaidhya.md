@@ -7,6 +7,7 @@ linkedinurl: "https://tejasvaidhyadev.github.io/"
 promoted: true
 weight: 1
 ---
-I am grad student in computer science at MILA and University of Montreal supervised by Prof. Dhanya Sridhar . I received my undergraduate degree from Indian Institute of Technology, Kharagpur.
-My research interests include Natural Language Processing and Causal Inference. I am also highly interested to work on scaling laws, explainability and Transformer based Language models. The goal of my research is to develop technologies and agents that can perceive their environment, reason about it, and communicate their understanding via natural language!
-In general, I am curious about everything. Recently, I've developed an interest in economics, psychology, and philosophy.
+I am a graduate student in computer science at MILA and University of Montreal, supervised by Prof. Dhanya Sridhar. My research interests include Natural Language Processing, Causal Inference, scaling laws, explainability, and Transformer based Language models. I aim to develop technologies and agents that can reason about their environment and communicate via natural language. I am also curious about economics, psychology, and philosophy.
+
+
+

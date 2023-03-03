@@ -7,4 +7,4 @@ promoted: true
 
 weight: 5
 ---
-Coding buddy who never sleeps, drinks way too much coffee, and always has the answer to your coding problems, even if it's not the one you were expecting. 
+Greatest peer programmer ever.

@@ -2,6 +2,7 @@
 title: "Nolano's SayIt"
 date: 2019-02-28T15:15:34+10:00
 weight: 2
+video: "https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFcK6qzOqw&#x2F;view?embed"
 ---
 
 Talk with your webpage.

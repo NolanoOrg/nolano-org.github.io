@@ -22,13 +22,9 @@ description: FAQ
 ### Q: How can I obtain information on the prompt that was used?
 **A:** If you need more information about the prompt that was employed, feel free to reach out to us at nolano.org@gmail.com. Our team is here to help and support you in your endeavors. Please note that we discourage reverse engineering and breaking of our system as we would like you to enjoy its use.
 
+### Q: Does SayIt work with all websites?
+**A:** Currently, SayIt only works with Medium, ar5iv, and substack. We are working to make it available for other websites in the near future. Stay tuned for updates on our progress! You can also use Nolano's magic command to navigate to the website you want to use SayIt on.
 
-
- 
-
-
-
-
-
-
+### Q: Do you have a offline version?
+**A:** Currently, we only have an online version. We are working to make it available for offline use in the near future. Stay tuned for updates on our progress!
 

@@ -9,5 +9,5 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Nolano: Copilot to navigate the web.
+# Nolano: Privacy first copilot to navigate the web.
 Say goodbye to aimless browsing and let our copilot take the wheel!.

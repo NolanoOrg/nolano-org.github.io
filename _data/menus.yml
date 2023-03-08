@@ -25,3 +25,6 @@ footer:
   - name: "Twitter"
     url: "https://twitter.com/nolanoorg"
     weight: 3
+  - name: "Discord"
+    url: "https://discord.gg/dnufPxmW"
+    weight: 4

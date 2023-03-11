@@ -2,12 +2,15 @@ main:
   # - name: "Products"
   #   url: "/products/"
   #   weight: 2
+  - name: "Blog"
+    url: "https://nolanoorg.substack.com/"
+    weight: 2
   - name: "FAQ"
     url: "/faq/"
-    weight: 3
+    weight: 4
   - name: "About"
     url: "/about"
-    weight: 2
+    weight: 3
   - name: "Team"
     url: "/team/"
     weight: 1

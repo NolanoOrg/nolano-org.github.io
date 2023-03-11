@@ -9,5 +9,5 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Nolano: Privacy first copilot to navigate the web.
-Say goodbye to aimless browsing and let our copilot take the wheel!.
+# Nolano:AI that runs on personal hardware.
+Open Source Privacy first AI that runs on personal hardware like laptops and phones.

@@ -5,6 +5,10 @@ description: About
 bodyClass: page-about
 ---
 
-Welcome to Nolano, our research software that aims to enhance your productivity by facilitating quick and professional email responses, enabling faster webpage navigation (you can talk with webpage), efficient task management, and correcting grammar errors, among other features. One of our most helpful features is the smart auto reply suggestion, which generates personalized response options to assist you in crafting suitable replies to emails, whether you're occupied, away from the office, or in need of inspiration. You can simply choose the most appropriate response from the list of suggestions provided.
+Welcome to Nolano,
+The primary objective of the Nolano community is to democratize access to Large Language Models (LLMs) for creators, developers, and researchers. To achieve this goal, the community focuses on two main areas: 
 
-We are constantly updating our software to ensure that it is up-to-date, so you can be sure that you are getting the best possible service. We are also working on adding new features to our software, so you can expect to see more exciting features in the future.
+1. Machine Learning Research & Exploration 
+2. Easy-to-use API for fast AI inference.
+
+Nolano helps individuals optimize the CPU inference of LLMs by developing techniques like better-trained models, quantization, pruning, and knowledge distillation. Furthermore, Nolano aims to remove entry barriers by creating open-source libraries and building hubs such as Hugging Face, which facilitate model integration in various applications.

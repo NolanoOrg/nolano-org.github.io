@@ -12,7 +12,7 @@ main:
     url: "/about"
     weight: 3
   - name: "Team"
-    url: "/team/"
+    url: "https://discord.gg/HGujTPQtR6"
     weight: 1
     
 footer:

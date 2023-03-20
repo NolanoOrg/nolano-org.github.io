@@ -11,4 +11,4 @@ The primary objective of the Nolano community is to democratize access to Large 
 1. Machine Learning Research & Exploration 
 2. Easy-to-use API for fast AI inference.
 
-Nolano helps individuals optimize the CPU inference of LLMs by developing techniques like better-trained models, quantization, pruning, and knowledge distillation. Furthermore, Nolano aims to remove entry barriers by creating open-source libraries and building hubs such as Hugging Face, which facilitate model integration in various applications.
+Nolano helps individuals optimize the CPU inference (personal hardware) of LLMs by developing techniques like better-trained models, quantization, pruning, and knowledge distillation. Furthermore, Nolano aims to remove entry barriers by creating open-source libraries which facilitate model integration in various applications.

@@ -1,12 +1,15 @@
 ---
-title: "Nolano's SayIt"
+title: "Int-3 and beyond"
 date: 2019-02-28T15:15:34+10:00
-weight: 2
+weight: 3
 video: "https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFcK6qzOqw&#x2F;view?embed"
 ---
 
-Talk with your webpage.
+GPTQ-style quantization improves performance over naive Round-to-Nearest (RtN) baseline in nearly all cases, but it degrades for smaller model depending on the type of quantization performed.
 
-SayIt by Nolano is a revolutionary tool that enables you to engage in a conversations with your webpage, making navigation simpler and more intuitive. With reference to the page you are currently on, SayIt enhances your browsing experience by allowing you to interact with the content in a natural and seamless way. Whether you're looking for an easier way to access information or seeking a more immersive browsing experience, SayIt by Nolano has got you covered.
+The bin-size for Int4 quantization can be further increased from the current size of 32 without much performance degradation, leading to a 15% reduction in RAM required to store weights for even the 7B LLaMa model.
 
+LLaMa 13B can be int3 quantized (with much larger bin size) with not much additional performance drops over int4 quantization, leading to a 30-35% reduction in RAM required to store weights for larger models.
+
+While int2 quantization is not usable for LLaMa 13B, larger models may be 2-bit quantize-able without much performance drop.
 

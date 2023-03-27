@@ -2,8 +2,8 @@
 title: "Cformers"
 date: 2019-01-28T15:15:26+10:00
 weight: 1
+video: "https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFeWA4SyxQ&#x2F;view?embed"
 ---
-
 SoTA Transformers with C-backend for fast inference on your CPU.
 
 

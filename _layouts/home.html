@@ -80,6 +80,10 @@ bodyClass: "page-home"
         <div class="service service-summary">
           <div class="service-content">
             <h2 class="service-title">
+              {% if service.external_url %}
+                <a href="{{ service.external_url }}">{{ service.title }}</a>
+              {% else %}
+              {% endif %}
               <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
             </h2>
             

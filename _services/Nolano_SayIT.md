@@ -3,6 +3,7 @@ title: "Int-3 and beyond"
 date: 2019-02-28T15:15:34+10:00
 weight: 3
 video: "https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFeWYBq6SQ&#x2F;view?embed"
+external_url: "nolano.org"
 ---
 
 GPTQ-style quantization improves performance over naive Round-to-Nearest (RtN) baseline in nearly all cases, but it degrades for smaller model depending on the type of quantization performed.

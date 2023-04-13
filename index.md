@@ -10,4 +10,4 @@ show_call_box: true
 ---
 
 # Nolano:AI that runs on personal hardware.
-Open Source Privacy first AI that runs on personal hardware like laptops and phones.
+Open Source AI that runs on your laptops and phones.

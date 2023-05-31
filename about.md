@@ -6,9 +6,13 @@ bodyClass: page-about
 ---
 
 Welcome to Nolano,
-The primary objective of the Nolano community is to democratize access to Large Language Models (LLMs) for creators, developers, and researchers. To achieve this goal, the community focuses on two main areas: 
+We aim to democratize AI by running chatbots and co-pilots on your personal devices. We focus on two main areas:
 
-1. Machine Learning Research & Exploration 
-2. Easy-to-use API for fast AI inference.
+1. Machine Learning Research: To optimize Large Language Models (LLMs) on personal hardware using techniques like better training, quantization, pruning, and knowledge distillation.
 
-Nolano helps individuals optimize the CPU inference (personal hardware) of LLMs by developing techniques like better-trained models, quantization, pruning, and knowledge distillation. Furthermore, Nolano aims to remove entry barriers by creating open-source libraries which facilitate model integration in various applications.
+2. Easy-to-use API: To ensure rapid AI inference and ease model integration across various applications.
+
+Additionally, we're offering Compression as a Service, reducing the size of your models for efficiency. Our open-source libraries aim to make AI more accessible and usable.
+
+
+

@@ -4,6 +4,8 @@ date: 2022-02-23T10:47:58+10:00
 image: "https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/tejas2.jpg"
 jobtitle: "co-founder"
 linkedinurl: "https://tejasvaidhyadev.github.io/"
+twitterurl: "https://twitter.com/imtejas13"
+googlescholar: "https://scholar.google.com/citations?user=dGedZKoAAAAJ&hl=en"
 promoted: true
 weight: 1
 ---

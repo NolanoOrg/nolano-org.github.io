@@ -4,6 +4,8 @@ date: 2018-12-20T13:45:06+10:00
 image: "https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/image1.jpg"
 jobtitle: "Co-founder & CSO"
 linkedinurl: "https://sites.google.com/view/irinarish/"
+twitterurl: "https://twitter.com/irinarish"
+googlescholar: "https://scholar.google.co.in/citations?user=Avse5gIAAAAJ&hl=en"
 promoted: true
 weight: 3
 ---

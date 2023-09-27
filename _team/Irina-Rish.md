@@ -8,6 +8,5 @@ promoted: true
 
 weight: 3
 ---
-Irina Rish is a Full Professor in the Computer Science and Operations Research Department at the Université de Montréal (UdeM), and a core member of Mila - Quebec AI Institute. She holds a Canada Excellence Research Chair (CERC) in Autonomous AI and a Canadian Institute for Advanced Research (CIFAR) Canada AI Chair. Dr Rish received her MSc and PhD in AI from University of California, Irvine and MSc in Applied Mathematics from Moscow Gubkin Institute. 
+[Irina Rish](https://sites.google.com/view/irinarish/) is a Full Professor at the [Université de Montréal](https://www.umontreal.ca/en/) (UdeM), where she leads the [Autonomous AI Lab](https://www.irina-lab.ai/), and a core faculty member of [MILA - Quebec AI Institute](https://mila.quebec/en/). She holds [Canada Excellence Research Chair (CERC)](https://www.cerc.gc.ca/chairholders-titulaires/index-eng.aspx) and a [CIFAR Chai](https://cifar.ca/).  Irina leads the US DoE’s INCITE project on Scalable Foundation Models on Summit supercomputer at OLCF. She is a co-founder and CSO of Nolano.ai.
 
-Irina's current research interests include continual learning, out-of-distribution generalization and robustness of deep neural networks, large-scale models and scaling laws of deep network properties with increasing amounts of data, parameters and compute.  She considers these research areas essential for achieving the holy grail of AI field, Artificial General Intelligence (AGI).

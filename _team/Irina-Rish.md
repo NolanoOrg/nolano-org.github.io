@@ -1,9 +1,9 @@
 ---
 title: "Irina Rish"
 date: 2018-12-20T13:45:06+10:00
-image: "https://mila.quebec/wp-content/uploads/2020/08/csm_20200825_irina-rich_e19b160651.jpg"
-jobtitle: "co-founder & CSO"
-linkedinurl: "https://mila.quebec/wp-content/uploads/2019/10/irina-rish.jpg"
+image: "https://mila.quebec/wp-content/uploads/2019/10/irina-rish.jpg"
+jobtitle: "Co-founder & CSO"
+linkedinurl: "https://sites.google.com/view/irinarish/"
 promoted: true
 
 weight: 3

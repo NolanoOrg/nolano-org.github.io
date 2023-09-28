@@ -44,7 +44,7 @@ bodyClass: "page-teams"
                     {% endif %}
                     
                 </div>
-                <div class="team-content">{{ team.content | truncate: 10000 }}</div>
+                <div class="team-content" style="text-align: justify;">{{ team.content | truncate: 10000 }}</div>
             </div>
         </div>
         {% endfor %}

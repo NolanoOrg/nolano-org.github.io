@@ -11,4 +11,4 @@ show_call_box: true
 # COMPRESSION AND INFERENCE ENGINE FOR FOUNDATION MODELS
 Compression and Inference Engine for Foundation models before deployment on clouds, phones and laptops <br> 
 
-Contact us at  [hello@nolano.ai](mailto:hello@nolano.ai) for more information.
+<b> Contact us at </b>  [hello@nolano.ai](mailto:hello@nolano.ai) for more information.

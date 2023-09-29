@@ -2,7 +2,7 @@
 layout: product
 ---
 
-# <span style="color:black; font-weight:bold">TURBO: Inference Engine for Foundation Models</span>
+## <span style="color:black; font-weight:bold">TURBO: Inference Engine for Foundation Models</span>
 
 <!-- Image -->
 <div style="text-align: center;">
@@ -18,7 +18,7 @@ At Nolano, we understand this and are thrilled to introduce Nolano’s Turbo LLM
 </div>
 <br>
 
-# <span style="color:black; font-weight:bold; ">Compact: Compression Engine for Foundation Models</span>
+## <span style="color:black; font-weight:bold; ">Compact: Compression Engine for Foundation Models</span>
 
 Coming Soon.
 

@@ -1,6 +1,6 @@
 ---
 title: Nolano's Product and Services
-layout: home
+layout: page
 description: Product and Services
 ---
 

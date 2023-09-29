@@ -22,7 +22,7 @@ At Nolano, we understand this and are thrilled to introduce Nolano’s Turbo LLM
 
 Coming Soon.
 
-<br>
-<br>
-<br>
+<div style="text-align: center;">
 
+    <a href="/contact" class="button">Contact Us for Beta</a> 
+<div>

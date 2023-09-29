@@ -1,7 +1,6 @@
 ---
-title: Product and Services 
-layout: product
-description: Product and Services
+layout: default
+bodyClass: "page-basic"
 ---
 
 ## <span style="color:#6f0e62">TURBO: Inference Engine for Foundation Models</span>

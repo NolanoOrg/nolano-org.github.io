@@ -30,7 +30,7 @@ Coming Soon.
 <div>
 
 
-<h2 style="text-align: center;">Open Source libraries for running Foundation Models locally</h2>
+<h3 style="text-align: center;">Open Source libraries for running Foundation Models locally</h3>
 
 <div class="strip">
   <div class="container pt-3 pb-6 pb-md-10">

@@ -18,4 +18,10 @@ At Nolano, we understand this and are thrilled to introduce Nolano’s Turbo LLM
 
   <a href="https://nolanoorg.substack.com/p/introducing-the-turbo-llm-inference" class="button">Read More on Turbo LLM Engine</a> 
 </div>
+<br>
 
+## <span style="color:#6f0e62">Compact: Compression Engine for Foundation Models</span>
+
+Coming Soon.
+
+  <a href="/contact.md" class="button">Contact Us for Beta</a> 

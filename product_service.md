@@ -1,6 +1,6 @@
 ---
 title: Product and Services 
-layout: page
+layout: product
 description: Product and Services
 ---
 

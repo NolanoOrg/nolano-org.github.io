@@ -10,9 +10,7 @@ Large Language Models have become an integral component of modern software syste
 
 At Nolano, we understand this and are thrilled to introduce Nolano’s Turbo LLM Engine – our answer to turbocharging inference for Large Language Models (LLMs).
 
-    <div>
   
-      <img src="https://nolano.ai/images/logo/logo.jpg" alt="Join Beta" width="32" height="32"> 
+<img src="https://nolano.ai/images/logo/logo.jpg" alt="Join Beta" width="32" height="32"> 
       <a href="https://nolanoorg.substack.com/p/introducing-the-turbo-llm-inference" class="button">Introducing Turbo LLM Engine</a> 
-    </div>
 

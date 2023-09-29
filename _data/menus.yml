@@ -2,7 +2,7 @@ main:
   # - name: "Products"
   #   url: "/products/"
   #   weight: 2
-  - name: "products"
+  - name: "Products"
     url: "/product_service"
 
   - name: "Blog"

@@ -25,7 +25,7 @@ Coming Soon.
 <div style="text-align: center;">
 
     <a href="/contact" class="button">Contact Us for Beta</a> 
-<div>
+</div>
 
 <br>
 

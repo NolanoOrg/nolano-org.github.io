@@ -26,3 +26,7 @@ Coming Soon.
 
     <a href="/contact" class="button">Contact Us for Beta</a> 
 <div>
+
+<br>
+
+<h2 style="color:#6f0e62">Open Source libraries for running Foundation Models locally</h3>

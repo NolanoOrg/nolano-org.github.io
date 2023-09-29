@@ -27,7 +27,4 @@ Coming Soon.
     <a href="/contact" class="button">Contact Us for Beta</a> 
 </div>
 
-<br>
-<br>
-
 

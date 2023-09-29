@@ -1,6 +1,5 @@
 ---
-layout: default
-bodyClass: "product"
+layout: product
 ---
 
 ## <span style="color:#6f0e62">TURBO: Inference Engine for Foundation Models</span>

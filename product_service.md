@@ -24,4 +24,62 @@ At Nolano, we understand this and are thrilled to introduce Nolano’s Turbo LLM
 
 Coming Soon.
 
-  <a href="/contact.md" class="button">Contact Us for Beta</a> 
+<div style="text-align: center;">
+
+  <a href="/contact" class="button">Contact Us for Beta</a> 
+<div>
+
+
+<h2 style="text-align: center;">Open Source libraries for running Foundation Models locally</h2>
+
+<div class="strip">
+  <div class="container pt-3 pb-6 pb-md-10">
+
+    <div class="row justify-content-start">
+    <!-- write something about the features of our extension -->
+
+      {% assign limit = site.home.limit_services | default: 2 %}
+      {% for service in site.services limit: limit %}
+      
+      <div class="col-12 col-md-6 mb-2">
+        <div class="service service-summary">
+          <div class="service-content">
+            <h2 class="service-title">
+              {% if service.external_url %}
+                <a href="{{ service.external_url }}">{{ service.title }}</a>
+              {% else %}
+              {% endif %}
+              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+            </h2>
+            
+           <p>{{ service.content | markdownify | strip_html | truncate: 350 }}
+           </p>
+            <!-- Add video using canva for each content -->           
+          </div>
+
+          
+        </div>
+        <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+        padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+        border-radius: 8px; will-change: transform;">
+        <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+          src= "{{service.video}}" allowfullscreen="allowfullscreen" allow="fullscreen">
+        </iframe>
+        </div>     
+      </div>
+
+      
+      {% endfor %}
+      <br>
+
+      <!-- <div style="position: relative; width: 70%; height: 0; padding-top: 39.2500%;
+      padding-bottom: 0; box-shadow: 0 8px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; margin-left: 13%;
+      border-radius: 8px; will-change: transform; text-align: center;">
+       <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0 0em;"
+         src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFZqke1NcY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+       </iframe>
+     </div>      -->
+
+    </div>
+  </div>
+</div>

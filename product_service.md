@@ -7,7 +7,7 @@ description: Product and Services
 ## Inference Engine for Foundation Models
 
 <!-- Image -->
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feacd0282-373b-4440-be3a-8e4901ada954_1044x630.png" alt="Join Beta" width="32" height="32">
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feacd0282-373b-4440-be3a-8e4901ada954_1044x630.png" alt="Join Beta" width="145" height="145">
 
 Large Language Models have become an integral component of modern software systems. In the world of language models, speed and efficiency are critical. For applications ranging from chatbots like ChatGPT to code/content generation tools like Jasper.ai and GitHub Copilot, the time it takes to generate a response can make all the difference.
 

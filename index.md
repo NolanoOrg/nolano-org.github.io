@@ -1,8 +1,7 @@
 ---
 title: Nolano.ai
 layout: home
-description: Compression and inference engine for foundation models before deployment on clouds, phones and laptops
-
+description: Train, compress, and deploy small models on-premise or on the cloud.
 intro_image: ""
 intro_image_absolute: true
 intro_image_hide_on_mobile: true

@@ -7,8 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
-# Efficient on-prem deployment of Foundation models.
-Building fastest inference and best compression engine for Foundation models before deployment on clouds, phones, and laptops <br> 
-
+# Seamless transition from Closed AI API to Open Source.
+Easy and Quick solution to switch to open source models powered by our fast inference and best compression engine  
 <b> Contact us at </b>  [hello@nolano.ai](mailto:hello@nolano.ai) for more information.
 

@@ -19,13 +19,10 @@ At Nolano, we understand this and are thrilled to introduce Nolano’s Turbo LLM
 <br>
 <br>
 
-# <span style="color:black; font-weight:bold; ">Compact: Compression Engine for Foundation Models</span>
 
-Coming Soon.
-
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
 
     <a href="/contact" class="button">Contact Us for Beta</a> 
-</div>
+</div> -->
 
   

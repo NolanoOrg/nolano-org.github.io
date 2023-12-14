@@ -18,6 +18,8 @@ At Nolano, we understand this and are thrilled to introduce Nolano’s Turbo LLM
 </div>
 <br>
 <br>
+# <span style="color:black; font-weight:bold">Introducing NOLIN (NOLANO x INDIC)</span>
+
 
 <div style="text-align: center;">
     <img src="https://blog.nolano.ai/assets/img/posts/hi-NOLIN-main.png" alt="Join Beta" width="450" height="450">

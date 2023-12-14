@@ -19,10 +19,17 @@ At Nolano, we understand this and are thrilled to introduce Nolano’s Turbo LLM
 <br>
 <br>
 
+<div style="text-align: center;">
+    <img src="https://blog.nolano.ai/assets/img/posts/hi-NOLIN-main.png" alt="Join Beta" width="450" height="450">
+</div>
+Hindi is one of the most widely used languages, spoken by more than 600 Million people. It has a rich ancient history, deeply ingrained in culture and reflected in a large amount of literature. However, no open-source high-quality Hindi LLM was built so far, perhaps due to the relative scarcity of data available for training such models from scratch.
 
-<!-- <div style="text-align: center;">
+To overcome this issue, our we continually train our Hindi model on top of the existing open-source LLMs that were pre trained primarily on English language, aiming to extend the capabilities of those models to the new language without forgetting the one learned before, and without having to incur the excessive cost of training such model from scratch on a large iid dataset containing mix of Hindi with the other pre-training data those models were already exposed to. However, previous works leading to models such as CodeLLaMa (which extended LLaMa for code generation) and LeoLM (which extended LLaMa for German Language) demonstrated that extending model to new domain comes at a cost of lower performance on original domain - the issue called “catastrophic forgetting” in continual learning literature - even with optimizer re-warming up.
 
-    <a href="/contact" class="button">Contact Us for Beta</a> 
-</div> -->
+
+<div style="text-align: center;">
+
+    <a href="https://huggingface.co/nolanoAI/Hi-NOLIN-9B" class="button">Download Hi-NOLIN</a> 
+</div>
 
   

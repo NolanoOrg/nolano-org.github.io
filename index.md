@@ -8,6 +8,8 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 # Efficient on-prem deployment of Foundation models.
-Easy and Quick solution to switch to open source models powered by continual pretraining, our fast inference and best compression engine  
+
+Turbocharging open-source models with continual pre-training, fast inference, and advanced compression
+
 <b> Contact us at </b>  [hello@nolano.ai](mailto:hello@nolano.ai) for more information.
 

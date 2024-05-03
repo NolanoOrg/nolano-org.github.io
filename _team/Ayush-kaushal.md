@@ -2,7 +2,7 @@
 title: "Ayush Kaushal"
 date: 2023-02-23T10:47:58+10:00
 image: "https://avatars3.githubusercontent.com/u/34215911?s=400&u=c1b19b8c083df088983c31dcb81bc92f39cacc00&v=4"
-jobtitle: "co-founder"
+jobtitle: "CTO"
 linkedinurl: "https://ayushk4.github.io/"
 twitterurl: "https://twitter.com/_ayushkaushal"
 googlescholar: "https://scholar.google.com/citations?user=HPXkux0AAAAJ&hl=en"

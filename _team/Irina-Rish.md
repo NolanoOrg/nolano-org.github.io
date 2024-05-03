@@ -2,7 +2,7 @@
 title: "Irina Rish"
 date: 2018-12-20T13:45:06+10:00
 image: "https://mila.quebec/wp-content/uploads/2019/10/irina-rish.jpg"
-jobtitle: "Co-founder & CSO"
+jobtitle: "CSO"
 linkedinurl: "https://sites.google.com/view/irinarish/"
 twitterurl: "https://twitter.com/irinarish"
 googlescholar: "https://scholar.google.co.in/citations?user=Avse5gIAAAAJ&hl=en"

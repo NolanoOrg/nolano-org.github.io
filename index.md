@@ -7,9 +7,9 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
-# Efficient on-prem deployment of Foundation models.
+# Decision Intelligence for the Enterprise
 
-Turbocharging open-source models with continual pre-training, fast inference, and advanced compression
+Building decision intelligence by creating highly accurate, flexible (supporting multimodality), and efficient forecasting models.
 
 <b> Contact us at </b>  [hello@nolano.ai](mailto:hello@nolano.ai) for more information.
 

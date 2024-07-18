@@ -5,11 +5,11 @@ main:
   - name: "Products"
     url: "/product_service"
 
-  - name: "Blog"
-    url: "https://nolanoorg.substack.com/"
-    weight: 3
+  # - name: "Blog"
+  #   url: "https://nolanoorg.substack.com/"
+  #   weight: 3
 
-  - name: "Research"
+  - name: "Blog"
     url: "https://blog.nolano.ai/"
     weight: 2
   # - name: "FAQ"

@@ -15,12 +15,12 @@ main:
   # - name: "FAQ"
   #   url: "/faq/"
   #   weight: 4
-  - name: "About"
-    url: "/about"
-    weight: 5
-  - name: "Team"
-    url: "/team"
-    weight: 4
+  # - name: "About"
+  #   url: "/about"
+  #   weight: 5
+  # - name: "Team"
+  #   url: "/team"
+  #   weight: 4
     
 footer:
   # - name: "Home"

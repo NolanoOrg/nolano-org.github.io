@@ -9,7 +9,7 @@ show_call_box: true
 ---
 # Decision Intelligence for the Enterprise
 
-Building decision intelligence by creating highly accurate, flexible (supporting multimodality), and efficient forecasting models.
+Building decision intelligence by creating highly accurate, flexible (supporting multimodality), and efficient foundation models.
 
 <b> Contact us at </b>  [hello@nolano.ai](mailto:hello@nolano.ai) for more information.
 
